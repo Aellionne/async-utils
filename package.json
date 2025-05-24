@@ -1,5 +1,13 @@
 {
-  "name": "async-utils",
-  "module": "async-utils.js",
-  "type": "module"
+	"name": "async-utils",
+	"module": "async-utils.js",
+	"types": "async-utils.d.ts",
+	"type": "module",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	},
+	"private": true,
+	"peerDependencies": {
+		"typescript": "^5"
+	}
 }
