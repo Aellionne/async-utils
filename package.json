@@ -1,0 +1,5 @@
+{
+  "name": "async-utils",
+  "module": "async-utils.js",
+  "type": "module"
+}
